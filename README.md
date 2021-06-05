@@ -6,7 +6,7 @@ Inspiration:
 
 ## Screenshot
 <h4 align="center">
-<img src="mobile/src/assets/logo@3x.png" width="250px" /><br>
+<img src="Screenshot 2021-06-05 121515.png" width="250px" /><br>
  <b>Try it yourself</b> 🦸‍♂️
 </h4>
 
