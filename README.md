@@ -7,7 +7,7 @@ Inspiration:
 ## Screenshot
 <h4 align="center">
 <img src="/vite-project/Screenshot 2021-06-05 121515.png" width="1000px" /><br>
- <b>Try it yourself</b> 🦸‍♂️
+ <b></b>
 </h4>
 
 ## Usage
